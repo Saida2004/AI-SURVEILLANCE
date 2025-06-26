@@ -1,0 +1,14 @@
+Flask
+opencv-python
+numpy
+torch
+torchaudio
+sounddevice
+soundfile
+librosa
+moviepy
+joblib
+scikit-learn
+# Uncomment if using email or SMS
+# twilio
+# secure-smtplib
